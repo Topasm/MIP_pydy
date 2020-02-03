@@ -1,1 +1,2 @@
-Gravity(-g*N3>)
+Mass  
+P=Mp, L=M, R=M
